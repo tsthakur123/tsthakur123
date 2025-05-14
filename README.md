@@ -78,7 +78,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="50" height="50" />
   </a>
   <a href="mailto:singh121tarun@gmail.com">
-     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" width="50" height="50" />
+     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="50" />
   </a>
 </p>
 
