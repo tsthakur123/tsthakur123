@@ -74,10 +74,14 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tarun-singh-30ab31188" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&width=150" /></a>
-  <a href="mailto:singh121tarun@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&width=150" /></a>
-<!--   <a href="https://twitter.com/tarunsingh0902" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&width=150" /></a> -->
+  <a href="https://www.linkedin.com/in/tarun-singh-30ab31188" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-colored.svg" alt="LinkedIn" width="50" height="50" />
+  </a>
+  <a href="mailto:singh121tarun@gmail.com">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail-colored.svg" alt="Gmail" width="50" height="50" />
+  </a>
 </p>
+
 
 ---
 
