@@ -50,8 +50,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarunsingh0902&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tarunsingh0902&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tsthakur123&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tsthakur123&theme=tokyonight" />
 </p>
 
 ---
@@ -59,9 +59,9 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tarunsingh0902/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tarunsingh0902@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/tarunsingh0902" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tarun-singh-30ab31188" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:singh121tarun@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!--   <a href="https://twitter.com/tarunsingh0902" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
 </p>
 
 ---
