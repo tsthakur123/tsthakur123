@@ -42,8 +42,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white&width=150" />
   <img src="https://img.shields.io/badge/WebContainer-1E1E1E?style=flat-square&logo=stackblitz&logoColor=white&width=150" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white&width=150" />
-  ![GSAP](https://img.shields.io/badge/GSAP-88CC44?style=flat-square&logo=greensock&logoColor=white)
-  ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-00C4CC?style=flat-square&logo=framer&logoColor=white)
+  <img src="https://img.shields.io/badge/GSAP-88CC44?style=flat-square&logo=greensock&logoColor=white&width=150" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-00C4CC?style=flat-square&logo=framer&logoColor=white&width=150" />
 
 </p>
 
