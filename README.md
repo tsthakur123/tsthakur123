@@ -75,10 +75,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tarun-singh-30ab31188" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-colored.svg" alt="LinkedIn" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="50" height="50" />
   </a>
   <a href="mailto:singh121tarun@gmail.com">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail-colored.svg" alt="Gmail" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" alt="Gmail" width="50" height="50" />
   </a>
 </p>
 
