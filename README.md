@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🎓 3rd-year B.Tech in Ceramic Engineering at **IIT (BHU), Varanasi**
+- 🎓 B.Tech student at **IIT (BHU), Varanasi**
 - 🛠️ Currently building **ConnectIIT** — an exclusive social platform for IITians
 - ⚡ Exploring **Generative AI**, **React Native**, and **Go microservices**
 - 🧩 Passionate about designing clean UIs and solving real-world problems
@@ -20,15 +20,25 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  
-  ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-222222?style=for-the-badge&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js)
-  ![Go](https://img.shields.io/badge/-Golang-222222?style=for-the-badge&logo=go)
-  ![Appwrite](https://img.shields.io/badge/-Appwrite-222222?style=for-the-badge&logo=appwrite)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-222222?style=for-the-badge&logo=tailwind-css)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=for-the-badge&logo=typescript)
-  ![Python](https://img.shields.io/badge/-Python-222222?style=for-the-badge&logo=python)
+    
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-3B49DF?style=for-the-badge&logo=clerk&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zod&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WebContainer](https://img.shields.io/badge/WebContainer-1E1E1E?style=for-the-badge&logo=stackblitz&logoColor=white)
 
 </div>
 
