@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FE744D&height=100&section=header"/>
 # Tarun Singh
 
 > STATUS: ONLINE
@@ -5,7 +6,7 @@
 ### The more impossible something seems, the more it attracts me.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FE744D&center=true&width=820&lines=Founder.;Building+TripFlow.;Something+bigger+is+coming." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=FE744D&center=true&width=820&lines=STATUS:+ONLINE;Systems+in+progress.;If+it’s+impossible,+good.;ConnectIT:+CLASSIFIED" />
 </p>
 
 <p align="center">
