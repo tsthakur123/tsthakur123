@@ -3,7 +3,7 @@
 ### I build what doesn’t exist.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FE744D&center=true&width=600&lines=Full-stack+Developer+%7C+AI+Explorer;Founder+of+TripFlow;Lover+of+clean+UI%2C+fast+code%2C+and+big+ideas." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FE744D&center=true&width=600&lines=Founder.;Building+TripFlow.;I+build+what+doesn’t+exist.;Something+bigger+is+coming." alt="Typing SVG" />
 </p>
 
 ---
