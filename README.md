@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tarun Singh
 
-### 🚀 Building tech that connects people | B.Tech @ IIT (BHU)
+### I build what doesn’t exist.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FE744D&center=true&width=600&lines=Full-stack+Developer+%7C+AI+Explorer;Founder+of+ConnectIIT;Lover+of+clean+UI%2C+fast+code%2C+and+big+ideas." alt="Typing SVG" />
@@ -139,7 +139,7 @@ People do.
 - 🔗 [**ConnectIIT**](https://connectiit.tech)  
   *Private network for IITians — real communities, smart connections, real-time interaction.*
 
-- 🔗 [**Whispr**](https:/www.whispr.in)  
+- 🔗 [**Whispr**](https://www.whispr.in)  
   *Anonymous, interest-based conversations — real connections without identity pressure.*
 
 ---
@@ -164,14 +164,14 @@ People do.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Reach
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tarun-singh-30ab31188" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="50" height="50" />
+  <a href="https://www.linkedin.com/in/tarun-singh-30ab31188">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:singh121tarun@gmail.com">
-     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="50" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
 
@@ -190,7 +190,7 @@ People do.
 
 ## ⚡ Fun Fact
 > "I don’t just build apps. I build experiences."  
-> When I’m not coding, I’m probably designing something new, mentoring juniors, or planning my next travel escape. 🌍✈️
+> When I’m not coding, I’m probably designing something new or planning my next travel escape. 🌍✈️
 
 ---
 
